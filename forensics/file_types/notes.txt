@@ -1,0 +1,11 @@
+1.  bash Flag.pdf, it creates an 'ar' file
+2.  ar -x flag, creates a cpio file
+3.  cpio -idv < flag, creates bzip2
+4.  bzip2 -d flag.txt
+5.  gz -d flag.txt
+6.  lzip
+
+7.  keep decomrpessing
+8.  Willl get file with hex numbers
+9.  Convert hex numbers to ascii
+cat flag | xxd -r -p

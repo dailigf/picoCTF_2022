@@ -1,0 +1,1 @@
+pdftottext <pdf_file>

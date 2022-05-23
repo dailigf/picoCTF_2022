@@ -1,0 +1,1 @@
+# Use strings on the image file, you'll find the flag that way
